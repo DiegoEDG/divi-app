@@ -2,9 +2,9 @@
 	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 	line-height: 1.5;
 	font-weight: 400;
-	color: rgba(255, 255, 255, 0.87);
 	background-color: #1a1a1b;
 	--bg-color: #1a1a1b;
 	--main-color: #ffb046;
-	--text-color: #cbcac3;
+	--text-color: #fff;
+	--text-color-light: #cbcac3;
 }
